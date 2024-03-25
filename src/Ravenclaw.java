@@ -36,6 +36,7 @@ public class Ravenclaw extends Hgwarts{
         this.wisdom = wisdom;
     }
 
+
     public void setWit(int wit) {
         this.wit = wit;
     }

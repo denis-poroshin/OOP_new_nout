@@ -37,6 +37,7 @@ public abstract class Hgwarts{
         return name;
     }
 
+
     public String getSurname() {
         return surname;
     }

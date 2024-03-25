@@ -30,6 +30,7 @@ public class Gryffindor extends Hgwarts{
         return bravery;
     }
 
+
     public void setNobility(int nobility) {
         this.nobility = nobility;
     }

@@ -22,6 +22,7 @@ public class Hufflepuff extends Hgwarts{
         return honesty;
     }
 
+
     public void setHardWork(int hardWork) {
         this.hardWork = hardWork;
     }

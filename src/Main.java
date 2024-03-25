@@ -63,6 +63,7 @@ public class Main {
 
     }
 
+
 /*
     public static void studentDescription(Hgwarts[] hufflepuff, int num){
         for (int i = 0; i < hufflepuff.length; i++) {
